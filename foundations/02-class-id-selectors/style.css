@@ -1,0 +1,18 @@
+.OddNumber{
+    background-color: rgb( 255, 196, 250);
+    font-family: "Verdana","DejaVu Sans","sans-serif";
+    
+}
+#uniqueid{
+    color: rgb( 77, 81, 244);
+    font-size: 36px;
+}
+
+.OddNumber.GreaterSize{
+    font-size: 24px
+}
+#uniqueid2{
+    background-color: rgb( 160, 226, 93 );
+    font-weight: bold;
+    font-size: 24px;
+}
